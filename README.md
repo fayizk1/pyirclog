@@ -1,0 +1,4 @@
+pyirclog
+========
+
+IRC logging system
